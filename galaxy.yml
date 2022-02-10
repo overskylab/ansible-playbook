@@ -1,0 +1,17 @@
+---
+namespace: "overskylab"
+name: "playbook"
+version: "1.0.0"
+readme: "README.md"
+description: "Simple playbook"
+authors:
+    - "Opsta"
+    - "Teerawat Namsricharoensuk"
+license:
+    - "MIT"
+tags:
+    - playbook
+repository: "https://github.com/overskylab/ansible-playbook"
+documentation: "https://github.com/overskylab/ansible-playbook/blob/master/README.md"
+homepage: "https://github.com/overskylab/ansible-playbook"
+issues: "https://github.com/overskylab/ansible-playbook/issues"
